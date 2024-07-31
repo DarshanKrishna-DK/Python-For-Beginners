@@ -24,7 +24,7 @@ print("Datatype of d", type(d))
 
 #Operations --> Specific functions performed on operands using operators
 #Types of operations:
-#1. Arithmetic  2. Logical  3. Comparision 4. Assignement 5. Bitwise 
+#1. Arithmetic  2. Logical  3. Comparision 4. Assignment 5. Bitwise 
 
 # 1. Arithmetic Operations 
 print("Sum:", 10+20) #sum 
@@ -134,8 +134,12 @@ for val in list1:
 
 for i in range(2,5):
     print(i)
-
+    
 print("Outside the for loop")
+
+
+
+
 
 
 
