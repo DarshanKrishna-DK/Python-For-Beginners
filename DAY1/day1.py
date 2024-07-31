@@ -1,4 +1,11 @@
-#This is for comments 
+#This is for comments - single line
+
+"""
+This is 
+multi-line comment
+haha
+:)
+"""
 
 #Datatypes in python 
 #1. Sequence - List, tuple, string
